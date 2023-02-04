@@ -1,16 +1,9 @@
 # covid_19_app
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/121867931/216756851-6169178d-b40a-466f-83a1-9d589315e777.mp4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align='left' src="https://user-images.githubusercontent.com/121867931/216756161-7615513e-9db1-4b83-8021-611d4894c6cf.png" width="200" height="450">
+<img src="https://user-images.githubusercontent.com/121867931/216756163-e6b91a33-65d2-4ccb-90cb-870234916425.png" width="200" height="450">
